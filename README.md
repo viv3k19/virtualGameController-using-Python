@@ -51,8 +51,7 @@ In conclusion, the Python program utilizing OpenCV and HandTrackingModule librar
 ![image](https://github.com/viv3k19/virtualGameController-using-Python/assets/82309435/2e608522-7920-46ef-b149-ed00e945fb90)
 
 # Project Creator
-* Vivek Malam
-
+* Vivek Malam - Feel free to contact me at viv3k.19@gmail.com for any questions or feedback.
 
 
 
